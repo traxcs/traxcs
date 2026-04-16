@@ -60,12 +60,10 @@ J'aime créer des interfaces propres, des scripts efficaces et des projets qui o
 
 ## GitHub Style Extras
 
-Stats configurées pour le pseudo `traxcs` :
-
-```md
-![Stats](https://github-readme-stats.vercel.app/api?username=traxcs&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traxcs&layout=compact&theme=tokyonight&hide_border=true)
-```
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=traxcs&show_icons=true&theme=tokyonight&hide_border=true" alt="Trax GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traxcs&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
