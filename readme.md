@@ -1,7 +1,7 @@
 # <div align="center">Trax</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=JavaScript+Developer;React+Builder;Lua+Scripter;CSS+Lover;Freeroam+%2F+UI+%2F+Creative+Dev" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=JavaScript+Developer;React+Builder;Lua+Scripter;CSS+Lover;UI+%2F+Creative+Dev" alt="Typing animation" />
 </div>
 
 <p align="center">
@@ -59,6 +59,8 @@ J'aime créer des interfaces propres, des scripts efficaces et des projets qui o
 ---
 
 ## GitHub Style Extras
+
+Stats configurées pour le pseudo `traxcs` :
 
 ```md
 ![Stats](https://github-readme-stats.vercel.app/api?username=traxcs&show_icons=true&theme=tokyonight&hide_border=true)
