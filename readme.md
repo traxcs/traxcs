@@ -19,7 +19,7 @@
 const trax = {
   code: ["JavaScript", "React", "Lua", "CSS"],
   focus: ["UI clean", "scripts dynamiques", "expériences fluides"],
-  vibe: "Je build des trucs stylés, rapides et propres."
+  vibe: "Je build des trucs uhq, kawaii et jouif."
 };
 ```
 
