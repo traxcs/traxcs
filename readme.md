@@ -60,11 +60,9 @@ J'aime créer des interfaces propres, des scripts efficaces et des projets qui o
 
 ## GitHub Style Extras
 
-Tu peux remplacer `TON_PSEUDO_GITHUB` par ton vrai pseudo si tu veux activer les stats :
-
 ```md
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=traxcs&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traxcs&layout=compact&theme=tokyonight&hide_border=true)
 ```
 
 ---
@@ -72,7 +70,7 @@ Tu peux remplacer `TON_PSEUDO_GITHUB` par ton vrai pseudo si tu veux activer les
 ## Contact
 
 <p align="left">
-  <a href="https://github.com/TON_PSEUDO_GITHUB">
+  <a href="https://github.com/traxcs">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
