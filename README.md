@@ -38,6 +38,6 @@
 
 <br/>
 
-• ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=traxcs&theme=transparent&hide_border=true&stroke=888888&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=CCCCCC&sideNums=CCCCCC&dates=666666)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=traxcs&theme=dark&hide_border=true&background=00000000&stroke=888888&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=CCCCCC&sideNums=CCCCCC&dates=666666)
 
 </div>
