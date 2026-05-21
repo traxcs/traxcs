@@ -32,11 +32,12 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=traxcs&show_icons=true&theme=transparent&hide_border=true&title_color=888&text_color=888&icon_color=888" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traxcs&layout=compact&theme=transparent&hide_border=true&title_color=888&text_color=888" />
+• <img height="160" src="https://github-readme-stats.vercel.app/api?username=traxcs&show_icons=true&theme=transparent&hide_border=true&title_color=888&text_color=888&icon_color=888" />
+
+• <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traxcs&layout=compact&theme=transparent&hide_border=true&title_color=888&text_color=888" />
 
 <br/>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=traxcs&theme=transparent&hide_border=true&stroke=888888&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=CCCCCC&sideNums=CCCCCC&dates=666666)
+• ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=traxcs&theme=transparent&hide_border=true&stroke=888888&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=CCCCCC&sideNums=CCCCCC&dates=666666)
 
 </div>
