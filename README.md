@@ -1,43 +1,27 @@
-<div align="center">
+## 👋 Hi i'm Trax
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=//+developer+%C2%B7+frontend+%C2%B7+scripting)
 
-# traxcs
 
-`frontend development · scripting · ui craftsmanship`
+[![My Skills](https://skillicons.dev/icons?i=github,js,ts,cpp,html,css,react,lua,vscode,discord)](https://skillicons.dev)
 
-</div>
 
----
 
-![Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+### 🧐 About Me
 
----
+- **Languages:** JavaScript, TypeScript, Discord JS, C++, "HTML", "CSS", "React"
 
-**focus**
+- **Games:** Fortnite, Minecraft, FiveM, etc...
 
-| | |
-|:--|:--|
-| frontend | JavaScript · React · CSS · UI/UX |
-| scripting | Lua · automation · game scripting |
 
----
 
-**langages**
+### 📫 My Contacts  
 
-`JavaScript` `React` `CSS` `Lua`
+- 💬 Discord: `@cardiologiquementalementation`
 
----
 
-<div align="center">
 
-• <img height="160" src="https://github-readme-stats.vercel.app/api?username=traxcs&show_icons=true&theme=transparent&hide_border=true&title_color=888&text_color=888&icon_color=888" />
+[![Discord Presence](https://lanyard.cnrad.dev/api/1477359786705158285?showDisplayName=true&hideDiscrim=true&theme=dark)](https://discord.com/users/1477359786705158285)
 
-• <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traxcs&layout=compact&theme=transparent&hide_border=true&title_color=888&text_color=888" />
 
-<br/>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=traxcs&theme=dark&hide_border=true&background=00000000&stroke=888888&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=CCCCCC&sideNums=CCCCCC&dates=666666)
-
-</div>
+[![Traxcs](https://img.shields.io/badge/Traxcs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/traxcs)
