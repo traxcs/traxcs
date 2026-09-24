@@ -16,7 +16,7 @@
 
 ### 📫 My Contacts  
 
-- 💬 Discord: `@cardiologiquementalementation`
+- 💬 Discord: `@kippa.fr`
 
 
 
