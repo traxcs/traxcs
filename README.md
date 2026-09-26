@@ -16,7 +16,7 @@
 
 ### 📫 My Contacts  
 
-- 💬 Discord: `@kippa.fr`
+- 💬 Discord: `@amblyopie`
 
 
 
