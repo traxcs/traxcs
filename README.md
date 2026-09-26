@@ -2,15 +2,15 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=github,js,ts,cpp,html,css,react,lua,flutter,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,js,ts,html,css,react,lua,vscode,discord)](https://skillicons.dev)
 
 
 
 ### 🧐 About Me
 
-- **Languages:** JavaScript, TypeScript, Discord JS, C++, "HTML", "CSS", "React", "Flutter"
+- **Languages:** JavaScript, TypeScript, Discord JS, , "HTML", "CSS", "React, Lua"
 
-- **Games:** Fortnite, Minecraft, FiveM, etc...
+- **Games:** Fortnite, FiveM, etc...
 
 
 
