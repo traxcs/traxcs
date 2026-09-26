@@ -20,7 +20,7 @@
 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1477359786705158285?showDisplayName=true&hideDiscrim=true&theme=dark)](https://discord.com/users/1477359786705158285)
+[![GitHub Streak](https://streak-stats.demolab.com?user=traxcs&theme=dark)](https://git.io/streak-stats)
 
 
 
