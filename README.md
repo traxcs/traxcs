@@ -20,7 +20,12 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats-pi-topaz.vercel.app?user=traxcs&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
+    <img src="./profile/streak-light.svg" alt="GitHub Streak" />
+  </picture>
+</a>
 
 
 
