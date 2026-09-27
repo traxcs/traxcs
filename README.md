@@ -20,12 +20,7 @@
 
 
 
-<a href="https://git.io/streak-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=traxcs&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=traxcs&theme=default" alt="GitHub Streak" />
-  </picture>
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=traxcs&theme=dark)](https://git.io/streak-stats)
 
 
 
