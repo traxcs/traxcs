@@ -20,7 +20,6 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats-pi-topaz.vercel.app?user=traxcs&theme=dark)](https://git.io/streak-stats)
 
 
 
