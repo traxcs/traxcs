@@ -1,12 +1,12 @@
 name: Update streak stats
 
+# Lancement manuel uniquement : le README utilise l'instance hebergee
+# streak-stats.demolab.com. Reactiver le cron ci-dessous pour generer le SVG
+# dans le repo (necessite un compte GitHub Actions fonctionnel).
 on:
-  schedule:
-    - cron: "47 3 * * *" # tous les jours a 03:47 UTC
-  push:
-    paths:
-      - ".github/workflows/streak-stats.yml"
-  workflow_dispatch: # lancement manuel depuis l'onglet Actions
+  # schedule:
+  #   - cron: "47 3 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
