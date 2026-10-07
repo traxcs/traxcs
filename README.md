@@ -2,13 +2,13 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=github,js,ts,html,css,react,lua,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,js,ts,html,css,react,lua,c#,vscode,discord)](https://skillicons.dev)
 
 
 
 ### 🧐 About Me
 
-- **Languages:** JavaScript, TypeScript, Discord JS, , "HTML", "CSS", "React, Lua"
+- **Languages:** JavaScript, TypeScript, Discord JS, , "HTML", "CSS", "React, Lua, C#"
 
 - **Games:** Fortnite, FiveM, etc...
 
@@ -16,7 +16,7 @@
 
 ### 📫 My Contacts  
 
-- 💬 Discord: `@amblyopie`
+- 💬 Discord: `@dovebots`
 
 
 
