@@ -2,7 +2,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=github,js,ts,html,css,react,lua,c#,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,js,ts,html,css,react,lua,csharp,vscode,discord)](https://skillicons.dev)
 
 
 
