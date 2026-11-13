@@ -16,7 +16,7 @@
 
 ### 📫 My Contacts  
 
-- 💬 Discord: `@karatstore`
+- 💬 Discord: `@yorkhost`
 
 
 
