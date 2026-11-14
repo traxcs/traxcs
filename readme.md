@@ -8,7 +8,7 @@
 
 ### 🧐 About Me
 
-- **Languages:** JavaScript, TypeScript, Discord JS, , "HTML", "CSS", "React, Lua, C#"
+- **Languages:** JavaScript, TypeScript, Discord JS, , HTML, CSS, React, Lua, C#
 
 - **Games:** Fortnite, FiveM, etc...
 
